@@ -1,14 +1,13 @@
-# Project Name
+# Chat Settings
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Project Description
+This repository serves as version control for the various configuration settings/files for our chat server.
 
 ## Live Version
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+Join our [chat server](http://chat.nhcarrigan.com) to see these settings live!
 
 ## Feedback and Bugs
 

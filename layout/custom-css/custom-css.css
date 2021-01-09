@@ -1,0 +1,67 @@
+:root {
+  --sidebar-background: #3a3240;
+  --sidebar-item-text-color: #aea8d3;
+  --header-background-color: #ecc3ef;
+  --button-primary-background: #ecc3ef;
+  --button-primary-text-color: #8a6090;
+  --rc-color-alert-message-primary: #f9f0fc !important;
+  --sidebar-background-light: #aea8d3;
+  --sidebar-background: #aea8d3;
+  --sidebar-item-text-color: #3a3240;
+  --rooms-list-empty-text-color: #3a3240;
+}
+
+.role-tag {
+  background-color: #ecc3ef !important;
+}
+
+.reactions > li {
+  background-color: #ecc3ef !important;
+}
+
+.code-colors {
+  background-color: #f9f0fc !important;
+}
+
+.custom-welcome-message {
+  text-align: center;
+}
+
+.custom-welcome-message > h1 {
+  font-size: 2em;
+}
+
+.rcx-subtitle,
+.rcx-accordion-item__title,
+.rcx-label {
+  color: #aea8d3 !important;
+}
+
+.rooms-list__type {
+  color: #3a3240;
+}
+
+.contextual-bar__header,
+.rc-user-info-details,
+.rc-user-info-details__label {
+  background-color: #aea8d3;
+  color: #3a3240;
+}
+
+.contextual-bar__content,
+.sidebar-item--active,
+.sidebar-flex__header,
+.rc-input__element {
+  background-color: #3a3240;
+  color: #aea8d3;
+}
+
+.rc-switch-double,
+.rc-switch__text,
+.rc-table-title {
+  color: #aea8d3;
+}
+
+.rc-header__wrap {
+  height: 50px;
+}
