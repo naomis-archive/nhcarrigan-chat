@@ -9,5 +9,4 @@ These settings must be done manually through Rocket.Chat's settings page:
     --primary-action-color: #EE99FF;
     --secondary-background-color: #ECC3EF;
     --secondary-font-color: #8A6090;
-    --secondary-action-color: #DDDDDD;
 ```
