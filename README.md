@@ -7,7 +7,7 @@ This repository serves as version control for the various configuration settings
 
 ## Live Version
 
-Join our [chat server](http://chat.nhcarrigan.com) to see these settings live!
+This page is not live - the decision was made to remain on Discord for the time being.
 
 ## Feedback and Bugs
 
